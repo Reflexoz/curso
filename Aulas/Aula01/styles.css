@@ -1,0 +1,18 @@
+.site01{ /* . por ser div class */
+    border: 5px outset red;
+    background-color: brown;
+    text-align: center;
+}
+
+.segundadiv{
+     border: 5px outset black;
+     background-color: chocolate;
+     text-align: right;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.terceiradiv{
+    border: 5px outset blueviolet;
+    background-color: chartreuse;
+    text-align: left;
+}
